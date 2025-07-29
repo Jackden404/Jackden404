@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jackden404
-- 👀 I’m interested in Coding and competatitive programming
+- 👀 I’m interested in CyberSecurity and National Security
 - 🌱 I’m currently learning C++ along with enhancing problem solving skills with DSA 
 - 💞️ I’m looking to collaborate on projects on C++ 
 - 📫 How to reach me my linkedin=
